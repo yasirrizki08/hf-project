@@ -3,5 +3,6 @@ Rencana konten HF
 - java Script
   * ES6
   * Framework Javascript
+- Fundamental Data Scructure
 - PHP
 - CSS
