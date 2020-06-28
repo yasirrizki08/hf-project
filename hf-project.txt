@@ -2,5 +2,5 @@ HF PROJECT
 RESOLUSI
  - Konsisten untuk diskusi 2x seminggu
  - Membuat web platform untuk rute perjalanan bus
- - Membuat merch shop
  - Kolaborasi dengan lebih banyak expert
+ - Membuat vlog
