@@ -1,0 +1,4 @@
+HF PROJECT
+RESOLUSI
+ - Konsisten untuk diskusi 2x seminggu
+ - Membuat web platform untuk rute perjalanan bus
