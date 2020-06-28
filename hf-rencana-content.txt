@@ -1,5 +1,7 @@
 Rencana konten HF
 
 - java Script
+  * ES6
+  * Framework Javascript
 - PHP
 - CSS
