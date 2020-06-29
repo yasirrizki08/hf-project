@@ -3,8 +3,9 @@ Rencana konten HF
 - java Script
   * ES6
   * Framework Javascript
-   ^ Angular
+   ^ Vue
    ^ React
-- PHP Framework
- ^ Laravel
+- Fundamental Data Scructure
+- PHP
+   ^ Laravel
 - CSS
