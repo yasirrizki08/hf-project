@@ -1,3 +1,16 @@
-h1 {
-    font-family: 'Lora';
+body {
+    font-family: 'Montserrat';
+}
+
+.navbar {
+    background-color: #848484 !important;
+}
+
+.nav-item a {
+    color: white !important;
+}
+
+ul .nav-item.active a {
+    color: #FF9800 !important;
+    font-weight: 500;
 }
