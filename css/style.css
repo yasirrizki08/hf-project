@@ -21,7 +21,12 @@ ul .nav-item.active a {
     margin-top: 140px;
 }
 
-.caption h4 {
+.caption h4,
+.search-trip h4 {
     font-family: 'Lora';
     font-weight: 300;
+}
+
+.search-trip {
+    background-color: #FF9800;
 }
