@@ -2,15 +2,26 @@ body {
     font-family: 'Montserrat';
 }
 
-.navbar {
+.navbar,
+.carousel {
     background-color: #848484 !important;
 }
 
 .nav-item a {
     color: white !important;
+    margin-right: 30px;
 }
 
 ul .nav-item.active a {
     color: #FF9800 !important;
     font-weight: 500;
+}
+
+.caption {
+    margin-top: 140px;
+}
+
+.caption h4 {
+    font-family: 'Lora';
+    font-weight: 300;
 }
