@@ -28,11 +28,29 @@ ul .nav-item.active a {
 }
 
 .search-trip {
-    background-color: #FF9800;
     box-shadow: 0 0 8px rgba(0, 0, 0, .25);
     border-radius: 10px;
 }
 
-.section-2 {
+.section-2,
+.section-3 {
     margin-top: 60px;
+}
+
+.search-trip, 
+.why-choose-us,
+.card {
+    background-color: #FF9800;
+} 
+
+/* .why-choose-us {
+    height: 450px;
+} */
+
+.why-choose-us p {
+    font-weight: 300;
+}
+
+.card {
+    border: none;
 }
